@@ -9,7 +9,7 @@ ktcompute = { path = "." }
 
 [package]
 name = "ktcompute"
-version = "0.0.0"
+version = "0.0.1"
 
 [package.build]
 backend = { name = "pixi-build-python", version = "*" }
